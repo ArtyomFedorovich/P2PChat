@@ -1,0 +1,26 @@
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.exe.config
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.exe
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.pdb
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.csprojResolveAssemblyReference.cache
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.exe
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.pdb
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\Shared.dll
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\Shared.pdb
+D:\Study\диплом\проект\P2Pchat-master\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.exe.config
+D:\Study\диплом\проект\P2Pchat-master\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.exe
+D:\Study\диплом\проект\P2Pchat-master\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.pdb
+D:\Study\диплом\проект\P2Pchat-master\GetConnectedServer\GetConnectedServer\bin\Debug\Shared.dll
+D:\Study\диплом\проект\P2Pchat-master\GetConnectedServer\GetConnectedServer\bin\Debug\Shared.pdb
+D:\Study\диплом\проект\P2Pchat-master\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.csprojResolveAssemblyReference.cache
+D:\Study\диплом\проект\P2Pchat-master\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.csproj.CoreCompileInputs.cache
+D:\Study\диплом\проект\P2Pchat-master\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.exe
+D:\Study\диплом\проект\P2Pchat-master\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.pdb
+D:\Study\диплом\проект\P2Pchat-master test\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.exe.config
+D:\Study\диплом\проект\P2Pchat-master test\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.exe
+D:\Study\диплом\проект\P2Pchat-master test\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.pdb
+D:\Study\диплом\проект\P2Pchat-master test\GetConnectedServer\GetConnectedServer\bin\Debug\Shared.dll
+D:\Study\диплом\проект\P2Pchat-master test\GetConnectedServer\GetConnectedServer\bin\Debug\Shared.pdb
+D:\Study\диплом\проект\P2Pchat-master test\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.csprojResolveAssemblyReference.cache
+D:\Study\диплом\проект\P2Pchat-master test\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.csproj.CoreCompileInputs.cache
+D:\Study\диплом\проект\P2Pchat-master test\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.exe
+D:\Study\диплом\проект\P2Pchat-master test\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.pdb

@@ -1,0 +1,17 @@
+c:\C# Projects\GetConnected\Shared\bin\Debug\Shared.dll
+c:\C# Projects\GetConnected\Shared\bin\Debug\Shared.pdb
+c:\C# Projects\GetConnected\Shared\obj\Debug\Shared.dll
+c:\C# Projects\GetConnected\Shared\obj\Debug\Shared.pdb
+C:\C# Projects\GetConnected\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+D:\Study\диплом\проект\P2Pchat-master\Shared\bin\Debug\Shared.dll
+D:\Study\диплом\проект\P2Pchat-master\Shared\bin\Debug\Shared.pdb
+D:\Study\диплом\проект\P2Pchat-master\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+D:\Study\диплом\проект\P2Pchat-master\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+D:\Study\диплом\проект\P2Pchat-master\Shared\obj\Debug\Shared.dll
+D:\Study\диплом\проект\P2Pchat-master\Shared\obj\Debug\Shared.pdb
+D:\Study\диплом\проект\P2Pchat-master test\Shared\bin\Debug\Shared.dll
+D:\Study\диплом\проект\P2Pchat-master test\Shared\bin\Debug\Shared.pdb
+D:\Study\диплом\проект\P2Pchat-master test\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+D:\Study\диплом\проект\P2Pchat-master test\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+D:\Study\диплом\проект\P2Pchat-master test\Shared\obj\Debug\Shared.dll
+D:\Study\диплом\проект\P2Pchat-master test\Shared\obj\Debug\Shared.pdb
